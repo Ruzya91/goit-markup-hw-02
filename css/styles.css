@@ -194,7 +194,7 @@ h1 {
 .ourteam {
   background-color: #f4f4fd;
 }
-.ourteam1 {
+.ourteam-li {
   background-color: #ffffff;
 }
 .ourteam-link {
@@ -306,17 +306,17 @@ h1 {
   text-transform: uppercase;
 }
 .link-footer {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #2e2f42;
   width: 71px;
   height: 21px;
   gap: 0px;
   opacity: 0px;
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1, 5;
-  letter-spacing: 0.03em;
-  text-align: left;
-  color: #f4f4fd;
 }
 .footer-text {
   width: 264px;
