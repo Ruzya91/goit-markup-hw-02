@@ -64,22 +64,7 @@ a {
 .address-mail:focus {
   color: #404bbf;
 }
-.adress-nummer {
-  opacity: 0px;
-  //styleName: Body;
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  text-align: left;
-  color: #434455;
-  font-style: normal;
-}
-.adress-nummer:hover,
-.adress-nummer:focus {
-  color: #404bbf;
-}
+
 .one {
   opacity: 0px;
   background: #2e2f42;
@@ -191,19 +176,7 @@ h1 {
   color: #434455;
   background-color: #ffffff;
 }
-.portfolio-link {
-  opacity: 0px;
-  //styleName: Header 2;
-  font-family: Roboto;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-  background-color: #f4f4fd;
-  text-transform: capitalize;
-}
+
 .portfolio-text {
   opacity: 0px;
   //styleName: Body;
@@ -218,28 +191,6 @@ h1 {
 .footer {
   opacity: 0px;
   background: #2e2f42;
-}
-.footer-logo {
-  opacity: 0px;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-align: left;
-  color: #4d5ae5;
-  text-transform: uppercase;
-}
-.link-footer {
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.03em;
-  text-align: left;
-  color: #2e2f42;
-
-  opacity: 0px;
 }
 .footer-text {
   opacity: 0px;
