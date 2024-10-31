@@ -84,10 +84,10 @@ a {
   color: #404bbf;
 }
 .adress-nummer {
-  width: 151px;
+  width: 153px;
   height: 24px;
   top: 24px;
-  left: 1133px;
+  left: 940px;
   gap: 0px;
   opacity: 0px;
   //styleName: Body;
@@ -245,30 +245,7 @@ h1 {
   color: #434455;
   background-color: #ffffff;
 }
-.portfolio-link {
-  width: 218px;
-  height: 40px;
-  top: 1868px;
-  left: 611px;
-  gap: 0px;
-  opacity: 0px;
-  //styleName: Header 2;
-  font-family: Roboto;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-  text-transform: capitalize;
-}
-.portfolio-1 {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
+
 .portfolio-text {
   width: 75px;
   height: 24px;
