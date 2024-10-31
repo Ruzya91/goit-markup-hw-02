@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color:#434455
+  color: #434455;
   background-color: #fff;
   font-size: 16px;
   line-height: 1.5;
@@ -32,7 +32,6 @@ a {
 }
 .nav-text {
   opacity: 0px;
-  //styleName: Body Medium;
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
@@ -50,7 +49,6 @@ a {
 }
 .address-mail {
   opacity: 0px;
-  //styleName: Body;
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
@@ -71,7 +69,6 @@ a {
 }
 h1 {
   opacity: 0px;
-  //styleName: Header 1;
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
@@ -98,7 +95,6 @@ h1 {
   background-color: #404bbf;
 }
 .text-button {
-  //styleName: Button Text;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -113,7 +109,6 @@ h1 {
 
 .two-link {
   opacity: 0px;
-  //styleName: Header 3;
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
@@ -124,7 +119,6 @@ h1 {
 }
 .two-text {
   opacity: 0px;
-  //styleName: Body;
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
@@ -141,7 +135,6 @@ h1 {
 }
 .ourteam-link {
   opacity: 0px;
-  //styleName: Header 2;
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
@@ -154,7 +147,6 @@ h1 {
 }
 .ourteam-worker {
   opacity: 0px;
-  //styleName: Header 3;
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
@@ -166,7 +158,6 @@ h1 {
 }
 .ourteam-text {
   opacity: 0px;
-  //styleName: Body;
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
@@ -179,7 +170,6 @@ h1 {
 
 .portfolio-text {
   opacity: 0px;
-  //styleName: Body;
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
@@ -192,8 +182,8 @@ h1 {
   opacity: 0px;
   background: #2e2f42;
 }
-.footer-logo{
-    opacity: 0px;
+.footer-logo {
+  opacity: 0px;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -203,8 +193,8 @@ h1 {
   color: #4d5ae5;
   text-transform: uppercase;
 }
-.link-footer{
-    font-family: Raleway;
+.link-footer {
+  font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
@@ -215,7 +205,6 @@ h1 {
 }
 .footer-text {
   opacity: 0px;
-  //styleName: Body;
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
