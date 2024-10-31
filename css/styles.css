@@ -245,7 +245,7 @@ h1 {
   color: #434455;
   background-color: #ffffff;
 }
-.Portfolio-link {
+.portfolio-link {
   width: 218px;
   height: 40px;
   top: 1868px;
@@ -262,14 +262,14 @@ h1 {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.Portfolio-1 {
+.portfolio-1 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.Portfolio-text {
+.portfolio-text {
   width: 75px;
   height: 24px;
   gap: 0px;
@@ -299,10 +299,11 @@ h1 {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1, 17;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-align: left;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 .link-footer {
   width: 71px;
