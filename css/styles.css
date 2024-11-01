@@ -8,9 +8,10 @@ body {
 a {
   text-decoration: none;
 }
-
+ul {
+  list-style-type: none;
+}
 .header-logo {
-  opacity: 0px;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -21,21 +22,12 @@ a {
   text-transform: uppercase;
 }
 .link-header {
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.03em;
-  text-align: left;
   color: #2e2f42;
-  opacity: 0px;
 }
 .nav-text {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
   color: #2e2f42;
@@ -48,11 +40,9 @@ a {
   font-style: normal;
 }
 .address-mail {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
   color: #434455;
@@ -64,12 +54,9 @@ a {
 }
 
 .one {
-  opacity: 0px;
   background: #2e2f42;
 }
-h1 {
-  opacity: 0px;
-  font-family: Roboto;
+.one-text {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -78,14 +65,10 @@ h1 {
   color: #ffffff;
 }
 .button {
-  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  text-align: left;
-
-  opacity: 0px;
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
@@ -94,35 +77,19 @@ h1 {
 .button:focus {
   background-color: #404bbf;
 }
-.text-button {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1, 5;
-  letter-spacing: 0.04em;
-  text-align: left;
-
-  opacity: 0px;
-  color: #ffffff;
-  cursor: pointer;
-}
 
 .two-link {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: left;
   color: #2e2f42;
 }
 .two-text {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
   color: #434455;
@@ -134,56 +101,60 @@ h1 {
   background-color: #ffffff;
 }
 .ourteam-link {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #f4f4fd;
   text-transform: capitalize;
 }
 .ourteam-worker {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #f4f4fd;
 }
 .ourteam-text {
-  opacity: 0px;
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #434455;
-  background-color: #ffffff;
-}
-
-.portfolio-text {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: left;
+  text-align: center;
+  color: #434455;
+}
+.portfolio-link {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.portfolio-list {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  background-color: #f4f4fd;
+  text-transform: capitalize;
+}
+.portfolio-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
   color: #434455;
 }
 .footer {
-  opacity: 0px;
   background: #2e2f42;
 }
 .footer-logo {
-  opacity: 0px;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -193,23 +164,11 @@ h1 {
   color: #4d5ae5;
   text-transform: uppercase;
 }
-.link-footer {
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.03em;
-  text-align: left;
-  color: #f4f4fd;
-  opacity: 0px;
-}
+
 .footer-text {
-  opacity: 0px;
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #f4f4fd;
 }
