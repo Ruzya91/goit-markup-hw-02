@@ -135,12 +135,11 @@ ul {
   text-transform: capitalize;
 }
 .portfolio-list {
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  background-color: #f4f4fd;
   text-transform: capitalize;
 }
 .portfolio-text {
@@ -164,7 +163,9 @@ ul {
   color: #4d5ae5;
   text-transform: uppercase;
 }
-
+.link-footer {
+  color: #f4f4fd;
+}
 .footer-text {
   font-size: 16px;
   font-weight: 400;
